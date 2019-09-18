@@ -1,0 +1,4 @@
+create database check;
+create table mytable(id int, name varchar(20));
+insert into mytable values(1110, 'Abebe');
+select * from mytable;
